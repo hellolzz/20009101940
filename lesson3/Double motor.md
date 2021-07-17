@@ -1,5 +1,6 @@
 # 双电机
-···bash
+
+```bash
 // C++ code
 //
 char ch=' ';
