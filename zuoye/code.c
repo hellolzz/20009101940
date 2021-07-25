@@ -1,6 +1,4 @@
-# 作业
 
-```bash
 #include <MsTimer2.h>  
 #define IN1 3
 #define IN2 4
@@ -58,5 +56,3 @@ void xianshi(int control,int n)
 	  	if(digitalRead(2)==1)tick=0;
 	}
 
-
-```
